@@ -1,0 +1,33 @@
+[11:28:44] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[11:28:44] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Identificador inválido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_401]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_401]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_401]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_401]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_401]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_401]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_401]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_401]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_401]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_401]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_401]
+	at ko$2.run(SourceFile:81) [mojang_1.8.8.jar:?]
+[11:28:44] [Server thread/INFO]: Loading properties
+[11:28:44] [Server thread/INFO]: Default game type: SURVIVAL
+[11:28:44] [Server thread/INFO]: Generating keypair
+[11:28:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:28:44] [Server thread/INFO]: Using default channel type
+[11:28:44] [Server thread/INFO]: Preparing level "world"
+[11:28:44] [Server thread/INFO]: Preparing start region for level 0
+[11:28:45] [Server thread/INFO]: Done (0,318s)! For help, type "help" or "?"
+[11:28:49] [Server thread/INFO]: Stopping server
+[11:28:49] [Server thread/INFO]: Saving players
+[11:28:49] [Server thread/INFO]: Saving worlds
+[11:28:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[11:28:49] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[11:28:49] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[11:28:49] [Server Shutdown Thread/INFO]: Stopping server
+[11:28:49] [Server Shutdown Thread/INFO]: Saving players
+[11:28:49] [Server Shutdown Thread/INFO]: Saving worlds
+[11:28:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
